@@ -1,0 +1,149 @@
+body {
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-color: #e0e8ff;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+.card {
+  margin: auto;
+  width: 450px;
+  height: 697px;
+  background: #ffffff;
+  box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+  border-radius: 20px;
+  margin-top: 75px;
+}
+
+.hero {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.order {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 37px;
+  padding-top: 30px;
+  text-align: center;
+  color: #1f2e55;
+}
+
+.songs {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #717fa6;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.grey {
+  margin: auto;
+  width: 354px;
+  height: 98px;
+  background: #f7f9ff;
+  border-radius: 11px;
+  margin-top: 25px;
+}
+
+.column1 {
+  float: left;
+  width: 18%;
+}
+
+.music {
+  padding-top: 25px;
+  padding-left: 15px;
+}
+
+.column2 {
+  padding-top: 25px;
+  text-align: left;
+  width: 92px;
+  height: 48px;
+  float: left;
+}
+
+.plan {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 21px;
+  height: 21px;
+  width: 117.19px;
+  padding-bottom: 15px;
+  color: #1f2e55;
+  text-align: left;
+}
+
+.money {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  color: #717fa6;
+}
+
+.column3 {
+  float: right;
+  padding-top: 10%;
+  padding-right: 9%;
+}
+
+.change {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+
+  text-decoration-line: underline;
+
+  color: #382ae1;
+}
+
+.pay {
+  background: #382ae1;
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+  border-radius: 11px;
+  width: 354px;
+  height: 50px;
+  margin: auto;
+}
+
+.proceed {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  padding-top: 4%;
+  margin-top: 40px;
+
+  color: #ffffff;
+}
+
+.cancel {
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: 900;
+  color: #717fa6;
+  text-align: center;
+  padding-top: 35px;
+}
+
+.attribution {
+  text-align: center;
+  padding-top: 20%;
+}
